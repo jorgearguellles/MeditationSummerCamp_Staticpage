@@ -1,6 +1,4 @@
-# staticPage-SummerCampMeditation
-
-Website for Meditaion Summer Camp
+# MeditationSummerCamp - Staticpage
 
 !Hello there! Meditation Summer Camp is a layout project that i have done
 Technologies I use used:
